@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<VideoItem /> should render and match the snapshot 1`] = `<div />`;
+
+exports[`<VideoItem /> should render with props.video 1`] = `ShallowWrapper {}`;
+
+exports[`<VideoItem /> should render with props.video null 1`] = `ShallowWrapper {}`;

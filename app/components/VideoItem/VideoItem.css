@@ -1,0 +1,15 @@
+.video-item{
+  display: flex !important;
+  align-items: center !important;
+  cursor: pointer;
+  float: left;
+  min-width: 320px;
+  min-width: 320px;
+  padding: 2% !important;
+  border-top: 1px solid rgba(34,36,38,.15) !important;
+}
+
+.video-item.item img{
+  max-width: 210px;
+  min-height: 330px;
+}
